@@ -7,7 +7,7 @@ name = "cogniflow"
 version = "0.1.0"
 description = "Financial Proactive Agent - Pattern detection, intent prediction, and context management"
 readme = "README.md"
-license = {text = "MIT"}
+license = {text = "Apache-2.0"}
 authors = [{name = "CogniFlow Team"}]
 classifiers = [
     "Development Status :: 3 - Alpha",

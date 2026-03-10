@@ -247,7 +247,10 @@ pytest tests/test_context.py
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) file for details.
+Apache License 2.0 - see [LICENSE](LICENSE) file for details.
+
+> ⚠️ **Disclaimer**: This software is for educational and research purposes only.
+> It is not intended to provide financial advice.
 
 ## Contributing
 
